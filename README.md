@@ -2,13 +2,19 @@
 
 This theme was made to mirror the [WinRAR Metro UI Theme by Dubaku](https://dubaku.deviantart.com/art/WinRAR-Metro-UI-Theme-by-Dubaku-313192927) for other archive applications ([7-Zip](http://www.7-zip.org/), [PeaZip](http://www.peazip.org/), [Zipware](https://www.zipware.org/), [Bandizip](https://www.bandisoft.com/bandizip/)).
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/20906143/30675733-90643a44-9e9b-11e7-9616-c35e8f400f8d.png" alt="Metro-UI-Theme, Filetypes icons" title="Metro-UI-Theme-for-Archivers, Filetype icons" width="400">
+</p>
+
 ## Installation
 
 ### 7-Zip
 * Download and extract [7-Zip Theme Manager](http://www.7ztm.de/) [2.1.1](http://www.7ztm.de/download.php?cat=00_German&file=7zTM_2.1.1_hotfix.7z).
 * Copy the `filetype` and `toolbar` folders from this project and paste them in the directory containing `7zTM.exe`.
 * Run `7zTM.exe` > select `Metro UI` from both *Toolbar Themes* and *Filetype Themes* menus > Click on *Activate theme*.
-* For changing toolbar icons size in 7-Zip, Run *7-Zip* > *View* > *Toolbars* > *Large Buttons*.
+* For changing toolbar icons size in 7-Zip, run *7-Zip* > *View* > *Toolbars* > *Large Buttons*.
+
+![Metro-UI-Theme, 7-Zip toolbar](toolbar/Metro%20UI/preview.jpg?raw=true "Metro-UI-Theme-for-Archivers, 7-Zip toolbar")
 
 ### PeaZip
 * Replace the default PeaZip filetype icons present in `C:\Program Files\PeaZip\res\icons` by the Metro UI theme icons from `filtype (PeaZip-special)` folder.
